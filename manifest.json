@@ -1,0 +1,8 @@
+{
+    "name": "PrivateChannelViewer",
+    "description": "Force-show private/hidden channels and forward messages",
+    "authors": [{"name": "28bx", "id": "000000000000000000"}],
+    "main": "index.js",
+    "version": "1.0.0",
+    "vendetta": { "icon": "LockIcon" }
+}
